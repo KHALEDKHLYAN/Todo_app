@@ -29,13 +29,13 @@ Before running the app, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter_todo_app.git
+   git clone https://github.com/KHALEDKHLYAN/Todo_app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter_todo_app
+   cd Todo_app
    ```
 
 3. Install dependencies:
